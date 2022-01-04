@@ -20,14 +20,20 @@ source-code: https://pepperdinelibraries.github.io/weisman/ #https://github.com/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Frederick R. Weisman Museum of Art Collection #CollectionBuilder-GH 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Digital Collection featuring pieces from the Weisman Museum of Art #a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: ""A selection of digitized artwork from the Frederick R. Weisman Museum of Art at Pepperdine University""
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
+
+# Organization branding
+organization-name: #"Digital Initiatives, University of Idaho Library"
+organization-link: #https://www.lib.uidaho.edu/digital/
+organization-logo-banner: #https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
+organization-logo-nav: #https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
 
 ##########
 # COLLECTION SETTINGS
@@ -35,6 +41,7 @@ author: CollectionBuilder
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 metadata: demo-metadata 
+
 
 ##########
 # GOOGLE SERVICES [optional!]
