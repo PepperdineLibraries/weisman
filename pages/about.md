@@ -22,4 +22,4 @@ Items from this collection are digital captures of artwork from Pepperdine Unive
 
 
 
-{% include cb/about_the_about.md %} 
+#{% include cb/about_the_about.md %} 
