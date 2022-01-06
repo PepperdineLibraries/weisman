@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdm15730.contentdm.oclc.org/customizations/collection/p15730coll35/images/landingpage/large-40926721783_ff3c8664f1_c.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+
 
 ## About the Collection
 
